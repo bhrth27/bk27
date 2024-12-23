@@ -1,0 +1,15 @@
+h1 {
+    background-color: blanchedalmond;
+    font-style: normal;
+    font-family: initial;
+    font-variant: small-caps;
+}
+form {
+ background-color: brown;
+}
+body{
+    background-color: black;
+}
+h2{
+    font animation-play-state: border;
+}
